@@ -1,0 +1,35 @@
+pandas
+numpy
+pydantic
+pillow
+kaleido
+plotly
+ipywidgets
+markdownify
+
+ollama
+smolagents[litellm, telemetry, ee2b]
+ddgs
+ipkernel
+python-dotenv
+
+e2b-code-interpreter
+
+# arize things
+openinference-instrumentation
+arize-phoenix-otel
+arize-phoenix
+
+openai
+
+langgraph
+langchain
+langchain-community
+langchain-openai
+
+tavily-python
+duckduckgo-search
+gradio
+
+
+git+https://github.com/davoshack/ai-custom-utils.git
